@@ -1,0 +1,14 @@
+E:\Curso_DU\Dio\Dio_Estudo\IDE Instalação e Configuração (Visual Studio)\Primeiro\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.exe
+E:\Curso_DU\Dio\Dio_Estudo\IDE Instalação e Configuração (Visual Studio)\Primeiro\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.deps.json
+E:\Curso_DU\Dio\Dio_Estudo\IDE Instalação e Configuração (Visual Studio)\Primeiro\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.json
+E:\Curso_DU\Dio\Dio_Estudo\IDE Instalação e Configuração (Visual Studio)\Primeiro\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.runtimeconfig.dev.json
+E:\Curso_DU\Dio\Dio_Estudo\IDE Instalação e Configuração (Visual Studio)\Primeiro\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.dll
+E:\Curso_DU\Dio\Dio_Estudo\IDE Instalação e Configuração (Visual Studio)\Primeiro\Primeiro\Primeiro\bin\Debug\netcoreapp3.1\Primeiro.pdb
+E:\Curso_DU\Dio\Dio_Estudo\IDE Instalação e Configuração (Visual Studio)\Primeiro\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.AssemblyReference.cache
+E:\Curso_DU\Dio\Dio_Estudo\IDE Instalação e Configuração (Visual Studio)\Primeiro\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso_DU\Dio\Dio_Estudo\IDE Instalação e Configuração (Visual Studio)\Primeiro\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfoInputs.cache
+E:\Curso_DU\Dio\Dio_Estudo\IDE Instalação e Configuração (Visual Studio)\Primeiro\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.AssemblyInfo.cs
+E:\Curso_DU\Dio\Dio_Estudo\IDE Instalação e Configuração (Visual Studio)\Primeiro\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.csproj.CoreCompileInputs.cache
+E:\Curso_DU\Dio\Dio_Estudo\IDE Instalação e Configuração (Visual Studio)\Primeiro\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.dll
+E:\Curso_DU\Dio\Dio_Estudo\IDE Instalação e Configuração (Visual Studio)\Primeiro\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.pdb
+E:\Curso_DU\Dio\Dio_Estudo\IDE Instalação e Configuração (Visual Studio)\Primeiro\Primeiro\Primeiro\obj\Debug\netcoreapp3.1\Primeiro.genruntimeconfig.cache
