@@ -6130,23 +6130,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Familia\\.nuget\\packages\\": {},
-    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Edu\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Curso_DU\\Dio\\Dio_Estudo\\IDE Instalação e Configuração (Visual Studio)\\Primeiro\\Primeiro\\PrimeiroTests\\PrimeiroTests.csproj",
+      "projectUniqueName": "C:\\Git_Edu_Antunes\\Dio_Estudo\\IDE Instalação e Configuração (Visual Studio)\\Primeiro\\Primeiro\\PrimeiroTests\\PrimeiroTests.csproj",
       "projectName": "PrimeiroTests",
-      "projectPath": "E:\\Curso_DU\\Dio\\Dio_Estudo\\IDE Instalação e Configuração (Visual Studio)\\Primeiro\\Primeiro\\PrimeiroTests\\PrimeiroTests.csproj",
-      "packagesPath": "C:\\Users\\Familia\\.nuget\\packages\\",
-      "outputPath": "E:\\Curso_DU\\Dio\\Dio_Estudo\\IDE Instalação e Configuração (Visual Studio)\\Primeiro\\Primeiro\\PrimeiroTests\\obj\\",
+      "projectPath": "C:\\Git_Edu_Antunes\\Dio_Estudo\\IDE Instalação e Configuração (Visual Studio)\\Primeiro\\Primeiro\\PrimeiroTests\\PrimeiroTests.csproj",
+      "packagesPath": "C:\\Users\\Edu\\.nuget\\packages\\",
+      "outputPath": "C:\\Git_Edu_Antunes\\Dio_Estudo\\IDE Instalação e Configuração (Visual Studio)\\Primeiro\\Primeiro\\PrimeiroTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Familia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Edu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6154,15 +6154,14 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": ".NETCoreApp,Version=v3.1",
           "projectReferences": {
-            "E:\\Curso_DU\\Dio\\Dio_Estudo\\IDE Instalação e Configuração (Visual Studio)\\Primeiro\\Primeiro\\Primeiro\\Primeiro.csproj": {
-              "projectPath": "E:\\Curso_DU\\Dio\\Dio_Estudo\\IDE Instalação e Configuração (Visual Studio)\\Primeiro\\Primeiro\\Primeiro\\Primeiro.csproj"
+            "C:\\Git_Edu_Antunes\\Dio_Estudo\\IDE Instalação e Configuração (Visual Studio)\\Primeiro\\Primeiro\\Primeiro\\Primeiro.csproj": {
+              "projectPath": "C:\\Git_Edu_Antunes\\Dio_Estudo\\IDE Instalação e Configuração (Visual Studio)\\Primeiro\\Primeiro\\Primeiro\\Primeiro.csproj"
             }
           }
         }
