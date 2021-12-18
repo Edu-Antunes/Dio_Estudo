@@ -9,7 +9,7 @@ namespace Primeiro
 
 
             var a = "Hello ";
-            var b = "Word...";
+            var b = "Word..";
 
             Console.WriteLine(a+b);
         }
