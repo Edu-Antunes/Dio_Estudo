@@ -1,0 +1,16 @@
+E:\Curso_DU\Dio\Dio_Estudo\Primeros Passos .Net\EstrturaDoPrograma\bin\Debug\net5.0\EstrturaDoPrograma.exe
+E:\Curso_DU\Dio\Dio_Estudo\Primeros Passos .Net\EstrturaDoPrograma\bin\Debug\net5.0\EstrturaDoPrograma.deps.json
+E:\Curso_DU\Dio\Dio_Estudo\Primeros Passos .Net\EstrturaDoPrograma\bin\Debug\net5.0\EstrturaDoPrograma.runtimeconfig.json
+E:\Curso_DU\Dio\Dio_Estudo\Primeros Passos .Net\EstrturaDoPrograma\bin\Debug\net5.0\EstrturaDoPrograma.runtimeconfig.dev.json
+E:\Curso_DU\Dio\Dio_Estudo\Primeros Passos .Net\EstrturaDoPrograma\bin\Debug\net5.0\EstrturaDoPrograma.dll
+E:\Curso_DU\Dio\Dio_Estudo\Primeros Passos .Net\EstrturaDoPrograma\bin\Debug\net5.0\ref\EstrturaDoPrograma.dll
+E:\Curso_DU\Dio\Dio_Estudo\Primeros Passos .Net\EstrturaDoPrograma\bin\Debug\net5.0\EstrturaDoPrograma.pdb
+E:\Curso_DU\Dio\Dio_Estudo\Primeros Passos .Net\EstrturaDoPrograma\obj\Debug\net5.0\EstrturaDoPrograma.csproj.AssemblyReference.cache
+E:\Curso_DU\Dio\Dio_Estudo\Primeros Passos .Net\EstrturaDoPrograma\obj\Debug\net5.0\EstrturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso_DU\Dio\Dio_Estudo\Primeros Passos .Net\EstrturaDoPrograma\obj\Debug\net5.0\EstrturaDoPrograma.AssemblyInfoInputs.cache
+E:\Curso_DU\Dio\Dio_Estudo\Primeros Passos .Net\EstrturaDoPrograma\obj\Debug\net5.0\EstrturaDoPrograma.AssemblyInfo.cs
+E:\Curso_DU\Dio\Dio_Estudo\Primeros Passos .Net\EstrturaDoPrograma\obj\Debug\net5.0\EstrturaDoPrograma.csproj.CoreCompileInputs.cache
+E:\Curso_DU\Dio\Dio_Estudo\Primeros Passos .Net\EstrturaDoPrograma\obj\Debug\net5.0\EstrturaDoPrograma.dll
+E:\Curso_DU\Dio\Dio_Estudo\Primeros Passos .Net\EstrturaDoPrograma\obj\Debug\net5.0\ref\EstrturaDoPrograma.dll
+E:\Curso_DU\Dio\Dio_Estudo\Primeros Passos .Net\EstrturaDoPrograma\obj\Debug\net5.0\EstrturaDoPrograma.pdb
+E:\Curso_DU\Dio\Dio_Estudo\Primeros Passos .Net\EstrturaDoPrograma\obj\Debug\net5.0\EstrturaDoPrograma.genruntimeconfig.cache
